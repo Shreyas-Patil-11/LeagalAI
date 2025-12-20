@@ -414,6 +414,3 @@ To add a new agent:
 **🏗️ Development Status**: This project is actively maintained and under continuous development. Contributions and feedback are welcome!
 
 ---
-
-*Last Updated: July 2025*
-*Version: 1.0.0*

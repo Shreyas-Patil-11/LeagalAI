@@ -1,4 +1,5 @@
-.env
 drafting/.env
 
 chroma_db/
+config.bat
+node_modules
